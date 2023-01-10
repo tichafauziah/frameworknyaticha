@@ -1,0 +1,20 @@
+TICHA FAUZIAH // 20201260
+
+1. - API (Application Programming Interface) adalah sebuah software yg berfungsi
+untuk mengintergrasikan 2 aplikasi atau lebih, 
+yaitu anatara aplikasi yang buat dengan aplikasi yang lain 
+   - REST (Representasional State Transfer) adalah desain arsitek 
+representasi dari API atau bentuk tampilan dari API
+
+
+3. Arsitektur headless menggunakan framework model konten. 
+Arsitektur ini mengurai konten menjadi beberapa bagian terpisah sesuai 
+dengan tujuannya masing-masing, sehingga menghasilkan konten yang 
+lebih terstruktur.
+- Kelebihan Headless :
+a. Memudahkan sebuah proses untuk mengoptimalkan layout, template yang sudah 
+siap menjadi lebih minimalis
+b. dapat membuat developer membuat query yang tersedia pada API CMS yang harus disesuaikan
+c. kerangka kerja yang digunakan bisa memudahkan tim pengerjaan bisa bekerja sama dengan
+semua tim, misalnya tim pengelola bekerja sama dngan tim pengembang.
+d. ketika menggunakan cms tidak terdapat downtime ketika perbaikan website
